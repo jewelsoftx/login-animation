@@ -127,7 +127,7 @@ class _LoginPageState extends State<LoginPage> {
          _loginHeight = _keyboardVisible ? windowHeight : windowHeight - 340;
         //
         // _loginXOffset = 20;
-        
+
         // _registerYOffset = _keyboardVisible ? 55 : 270;
         // _registerHeight = _keyboardVisible ? windowHeight : windowHeight - 270;
         break;
